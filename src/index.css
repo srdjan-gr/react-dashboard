@@ -11,10 +11,6 @@
 html, body, #root, .app, .content {
   height: 100%;
   width: 100%;
-  font-family: 'Source Sans Pro', sans-serif;
-  font-weight: 400;
-  font-size: 1.6rem;
-  line-height: 1.6;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
